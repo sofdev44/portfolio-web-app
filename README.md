@@ -1,17 +1,20 @@
-# 🌐 Personal Portfolio Web Application
+# 🌐 EFREI IT Department Portal
 
-A professional, responsive portfolio website designed to showcase my **Software Engineering projects**, skills, and academic journey.
+A professional, multi-page web portal designed for the **EFREI Paris IT Department**, featuring a modern UI, clear information architecture, and an integrated AI Chatbot.
 
 ### 🛠️ Tech Stack
 *   **Frontend:** HTML5, CSS3, JavaScript
-*   **Design:** Responsive UI/UX principles, mobile-first approach.
-*   **Assets:** Optimized PDF hosting for CVs and project reports.
+*   **Design:** UI/UX Design with a focus on academic navigation.
+*   **Features:** Integrated AI Chatbot, responsive layouts, and interactive components.
 
 ### 🌟 Key Features
-*   **Project Showcase:** Interactive display of my GitHub repositories and academic achievements.
-*   **Professional Branding:** Integrated LinkedIn and GitHub links for seamless networking.
-*   **Responsive Design:** Fully optimized for all screen sizes (Mobile, Tablet, Desktop).
-*   **Figma Integration:** Includes mockups and design prototypes for high-fidelity user interfaces.
+*   **Comprehensive Architecture:** 6+ dedicated pages (Home, Teaching, Projects, Student Life, etc.) designed for optimal user flow.
+*   **AI Chatbot Integration:** Persistent AI assistant available across all pages to guide users.
+*   **Modern UI/UX:** High-fidelity mockups translated into clean, responsive code.
+*   **Information Hub:** Centralized platform for academic resources, research projects, and campus life.
 
-### 📈 Goal
-This project serves as my digital business card, demonstrating my ability to build clean, professional, and accessible web interfaces from scratch.
+### 🎨 Design Philosophy
+The project follows a "Professional & Academic" aesthetic, using a corporate blue palette to instill trust and clarity, while maintaining a modern feel with Tailwind-inspired components.
+
+### 📈 Impact
+This project demonstrates my ability to take a complex requirement (a university department portal), design the full user journey, and implement a functional, multi-page solution.
